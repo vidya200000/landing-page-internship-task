@@ -47,9 +47,6 @@ landing-page-internship-task/
 ├── README.md # Project description
 └── .gitignore # Git ignore file
 ```
-
----
-
 ## 📖 How to Run
 
 1. Clone the repository:  
@@ -57,3 +54,9 @@ landing-page-internship-task/
 git clone https://github.com/vidya200000/landing-page-internship-task.git
 ```
 
+## ✅ Outcome
+
+- Fully responsive landing page built with HTML5 & CSS3
+- Hero, About, Services, Portfolio, and Contact sections
+- Uses Flexbox, Grid, and Media Queries
+- Can be opened and viewed on any device (desktop, tablet, mobile)
