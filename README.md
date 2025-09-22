@@ -16,13 +16,11 @@ A **responsive landing page** built using **HTML5** and **CSS3** as part of my *
 
 ## 🎨 Screenshots
 
-**Hero Section Preview:**  
-![Hero Section](assets/hero1.jpg)
-
 **Full Landing Page Preview:**  
 ![Landing Page](assets/homepage-screenshot.png)
 
 *(Add more screenshots if needed for About, Services, Portfolio, etc.)*
+
 
 ---
 
