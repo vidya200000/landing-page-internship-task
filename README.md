@@ -16,9 +16,6 @@ A **responsive landing page** built using **HTML5** and **CSS3** as part of my *
 
 ## 🎨 Screenshots
 
-**Hero Section Preview:**  
-![Hero Section](assets/hero1.jpg)
-
 **Full Landing Page Preview:**  
 ![Landing Page](assets/homepage-screenshot.png)
 
@@ -41,11 +38,11 @@ landing-page-internship-task/
 ├── index.html # Main HTML file
 ├── style.css # CSS styling
 ├── assets/ # Images and icons
-│ ├── hero1.jpg
-│ ├── homepage-screenshot.png
-│ └── other images...
+│   ├── homepage-screenshot.png
+│   └── other images...
 ├── README.md # Project description
 └── .gitignore # Git ignore file
+
 ```
 ## 📖 How to Run
 
